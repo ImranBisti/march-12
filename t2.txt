@@ -1,1 +1,1 @@
-from text2
+from text2..everything controlled..
